@@ -1,0 +1,157 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-24 10:51+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: telegram/bot.py:56
+msgid "There is no such question"
+msgstr "Неизвестный вопрос"
+
+#: telegram/bot.py:72 telegram/bot.py:115
+msgid "There is no such country"
+msgstr "Неизвестная страна"
+
+#: telegram/bot.py:81
+msgid "Enter valid name"
+msgstr "Введите действительное имя"
+
+#: telegram/bot.py:99
+msgid "Wrong visa type"
+msgstr "Неизвестный тип визы"
+
+#: telegram/bot.py:112
+msgid ""
+"Your application reached us.\n"
+"We will get you back soon.\n"
+"Thank You."
+msgstr "Ваше заявление было доставлено.\nСкоро с вами свяжутся.\nСпасибо."
+
+#: telegram/bot.py:118
+msgid "Wrong Command"
+msgstr "❗Неизвестная команда"
+
+#: telegram/bot.py:124
+msgid "Main menu"
+msgstr "Главное меню"
+
+#: telegram/bot.py:129
+msgid "What question interests you?"
+msgstr "Что вас интересует?"
+
+#: telegram/bot.py:134
+msgid "Countries we work with"
+msgstr "Список стран сотрудников"
+
+#: telegram/bot.py:139
+msgid "Enter your name:"
+msgstr "Введите ваше имя"
+
+#: telegram/bot.py:144
+msgid "Share your contact"
+msgstr "📞Отправить контакт"
+
+#: telegram/bot.py:149
+msgid "What visa type you want to get"
+msgstr "Какую визу хотите получить"
+
+#: telegram/bot.py:154
+msgid "Choose country"
+msgstr "Выберите страну"
+
+#: telegram/keyboards.py:12
+msgid "btn_faqs"
+msgstr "❓Часто задаваемые вопросы"
+
+#: telegram/keyboards.py:13
+msgid "btn_about"
+msgstr "О нас"
+
+#: telegram/keyboards.py:14
+msgid "btn_visas"
+msgstr "🛂Перечень документов"
+
+#: telegram/keyboards.py:15
+msgid "btn_application"
+msgstr "📋Оставить заявление"
+
+#: telegram/keyboards.py:26 telegram/keyboards.py:36
+msgid "btn_back"
+msgstr "🔙Назад"
+
+#: telegram/keyboards.py:47
+msgid "Share contact"
+msgstr ""
+
+#: telegram/models.py:5
+msgid "Main page"
+msgstr "Главная страница"
+
+#: telegram/models.py:6
+msgid "FAQs"
+msgstr "ЧаВо"
+
+#: telegram/models.py:7
+msgid "About"
+msgstr "О нас"
+
+#: telegram/models.py:8
+msgid "Counties List"
+msgstr "Лист стран"
+
+#: telegram/models.py:9
+#, fuzzy
+#| msgid "btn_application"
+msgid "Application Name"
+msgstr "📋Оставить заявление"
+
+#: telegram/models.py:10
+msgid "Application Contact"
+msgstr "Заявление контакт"
+
+#: telegram/models.py:11
+msgid "Application visa type"
+msgstr "Заявление тип визы"
+
+#: telegram/models.py:15
+msgid "Student visa"
+msgstr "Студенческая виза"
+
+#: telegram/models.py:16
+msgid "Tourist visa"
+msgstr "Туристическая виза"
+
+#: telegram/models.py:17
+msgid "Work visa"
+msgstr "Рабочая виза"
+
+#: telegram/models.py:18
+msgid "Business visa"
+msgstr "Деловая виза"
+
+#: telegram/models.py:19
+msgid "Guest visa"
+msgstr "Гостевая виза"
+
+#: telegram/models.py:20
+msgid "PR visa"
+msgstr "PR виза"
+
+#~ msgid "Information"
+#~ msgstr "Информация"
