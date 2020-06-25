@@ -19,8 +19,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
-# SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'zbv@hne$_%9n4+#0_b@#9eln*&4y)=sw%5-il@y*mlg@tq4dsz'
+
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -147,4 +146,3 @@ MEDIA_URL = '/media/'
 
 # CORS_ORIGIN_ALLOW_ANY = True
 
-TOKEN = "907984201:AAHLu0ly5tRXB5kxu8q1cZc3b7Fp0CqYKu8"
